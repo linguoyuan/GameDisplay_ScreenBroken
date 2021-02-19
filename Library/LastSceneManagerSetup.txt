@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/BrokenGlass/\u5361\u901A\u7740\u8272.unity"
+  isLoaded: 1
+  isActive: 1
